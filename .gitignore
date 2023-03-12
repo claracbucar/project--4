@@ -1,6 +1,8 @@
 # Project Specific
 .DS_Store
 sql_config.py
+*.csv
+*.xl*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
