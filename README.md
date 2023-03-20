@@ -1,5 +1,23 @@
-# Credit Risk
+# Credit Default Risk Prediction
+Construct a model for predicting credit risk.
 
+## Objective
+Build a model with an accuracy greater than 75%.
+
+## Models
+All models achieved an accuracy of greater than 90%.
+* K-Means
+* K Nearest Neighbor Clustering
+* Logistic Regression
+* Neural Network
+* ROC AUC (Receiver Operating Charateristic - Area Under the Curve)
+* SVM (Support Vector Machine)
+* Random Forest
+
+## Data
+https://www.kaggle.com/datasets/mishra5001/credit-card
+* Rows (307,511)
+* Columns (122)
 ## Database Setup
 *Note*: It is probably easier to copy the contents of each sql file and paste into the SQL Editor.
 1. Open your favorite database application (e.g., pgAdmin, DBeaver, SQuirrelSQL)
